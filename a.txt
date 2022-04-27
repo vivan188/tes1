@@ -1,1 +1,1 @@
-THis is git demo.
+This is git demo. Changes are mad after first commit and push
